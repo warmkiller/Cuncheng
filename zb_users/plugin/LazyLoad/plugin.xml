@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>LazyLoad</id>
+<name>LazyLoad图片延迟加载</name>
+<url>http://www.fengwensheng.com/</url>
+<note>可以延迟加载网站中的图片</note>
+<description>LazyLoad图片延迟加载，可以延迟加载网站中的图片。</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>流年岁月</name>
+  <email>372664700@qq.com</email>
+  <url>http://www.fengwensheng.com/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140220</adapted>
+<version>1.0</version>
+<pubdate>2014-05-03</pubdate>
+<modified>2014-05-03</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

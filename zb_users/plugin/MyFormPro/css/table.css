@@ -1,0 +1,147 @@
+@charset "utf-8";
+/**/
+.mfpcls table {
+	border-collapse: collapse;
+	border:1px solid #E1E1E1;
+	background:#ffffff;
+	line-height:120%;
+}
+.mfpcls table label{
+	-ms-text-size-adjust: 100%; /*用于解决IE10 for WP8字体过大的问题*/
+}
+.mfpcls td,.mfpcls th{
+	border:1px solid #E1E1E1;
+	margin:0;
+	padding:3px 5px;
+	text-indent:0;
+	vertical-align:middle;
+}
+.mfpcls tr img{
+	margin-bottom:-4px;
+}
+.mfpcls tr.color1{
+background:#ededed;
+}
+.mfpcls tr.color2{
+background:#F4F4F4;
+}
+.mfpcls tr.color3{
+background:#ffffff;
+}
+.mfpcls tr.color4{
+background:#ffffdd;
+}
+
+/*表   格*/
+.mfpcls .tableBorder {
+	line-height:1.8em;
+	margin-bottom:0.8em;
+	margin-top:0.2em;
+	-ms-text-size-adjust: 100%; /*用于解决IE10 for WP8字体过大的问题*/
+}
+
+.mfpcls .tableBorder th{
+	text-align:left;
+}
+
+.mfpcls .tableBorder-thcenter th{
+	text-align:center;
+}
+
+
+
+.mfpcls .tableFull{width:100%;}
+.mfpcls .tdCenter{text-align:center;}
+.mfpcls .td20{width:20%;}.td30{width:30%;}
+.mfpcls .td5{width:5%;}.td10{width:10%;}
+.mfpcls .td15{width:15%;}.td25{width:25%;}
+
+/*表   单*/
+.mfpcls form {border:0px solid black;padding:0.0em;margin:0.5em 0;}
+
+.mfpcls form p{padding:0.5em 0  0.5em 0;line-height:1.5em;}
+
+
+
+.mfpcls input {
+	padding: 0.25em 0.25em 0.25em 0.25em;
+	border: 1px solid #ccc;
+	background-position: bottom;
+	background:#fff;
+	font-size:1em;
+}
+.mfpcls input[type="radio"] {
+	border:none;
+	background:none;
+}
+.mfpcls select{
+	padding: 0.15em 0.25em 0.20em 0.25em;
+	border: 1px solid #ccc;
+	background-position: bottom;
+	background:#fff;
+	font-size:1.0em;
+}
+
+.mfpcls textarea {
+    background: #fff;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 1em;
+    width: 100%;
+}
+
+.mfpcls input[type="text"] {
+    box-sizing: border-box;
+    height: 30px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.mfpcls input.button,input[type="submit"],input[type="button"] {
+	color:#ffffff;
+	font-size:1.1em;
+	height:29px;
+	padding: 2px 18px 3px 18px;
+	margin:0 0.5em;
+	background:#3a6ea5;
+	border:1px solid #3399cc;
+	cursor: pointer;
+}
+.mfpcls input.button:hover {background: #3399cc;}
+
+.mfpcls input.button2 { width:auto;}
+
+.mfpcls input[disabled],input[disabled]:hover{
+	background:#eee;
+	border:1px solid #ccc;
+}
+
+.mfpcls input[readonly],input[readonly]:hover{
+	background:#eee;
+	border:1px solid #ccc;
+	color: #808080;
+}
+.mfpcls select.edit{
+	width:300px;
+}
+.mfpcls input.edit{
+	width:293px;
+}
+
+
+/*checkbox*/
+.mfpcls .imgcheck{
+	background:url(images/checkbox.png) no-repeat 0 bottom;
+	width:40px;
+	height:17px;
+	display:inline-block;
+/*	float:left;*/
+	cursor: pointer;
+	margin-bottom:-3px;
+	margin-left:5px;
+}
+.mfpcls .imgcheck-on{
+	background:url(images/checkbox.png) no-repeat 0 top;
+}
+

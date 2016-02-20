@@ -1,0 +1,16 @@
+@charset "utf-8";
+/*checkbox*/
+.mfpcls .imgcheck{
+	background:url(images/checkbox.png) no-repeat 0 bottom;
+	width:40px;
+	height:17px;
+	display:inline-block;
+/*	float:left;*/
+	cursor: pointer;
+	margin-bottom:-3px;
+	margin-left:5px;
+}
+.mfpcls .imgcheck-on{
+	background:url(images/checkbox.png) no-repeat 0 top;
+}
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>xpro</id>
+<name>偶遇-在他的博客遇见你</name>
+<url>http://www.songzhenjiang.cn</url>
+<note>偶遇-在他的博客遇见你【免费版】</note>
+<description>这是一个在线聊天软件，他们相遇在他的博客，相知在他的博客</description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>唐朝</name>
+  <email>79300975@qq.com</email>
+  <url>http://www.songzhenjiang.cn</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>150101</adapted>
+<version>1.0</version>
+<pubdate>2015-08-08</pubdate>
+<modified>2015-08-08</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

@@ -1,0 +1,10 @@
+﻿ul.archive li{ 
+list-style:none; 
+display:inline-block; 
+width:100%; 
+padding:4px 0; 
+height:26px; 
+overflow:hidden;
+border-bottom:1px #eaeaea dotted; 
+}
+.PostAuthor{display:none;}

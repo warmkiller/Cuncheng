@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>os_qq</id>
+<name>腾讯QQ互联</name>
+<url>http://oss.so/</url>
+<note>腾讯QQ互联</note>
+<description>不提供免费解决问题的方案</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>橙色阳光</name>
+  <email>1122@hizhou.cn</email>
+  <url>http://oss.so</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>150101</adapted>
+<version>1.0</version>
+<pubdate>2015-11-12</pubdate>
+<modified>2015-11-12</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin><!-- app_host:http://zblogphp.xyz/;app_email:;app_user:zblogphp; -->

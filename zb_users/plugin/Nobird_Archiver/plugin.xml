@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>Nobird_Archiver</id>
+<name>文章列表(HTML地图)</name>
+<url>http://www.birdol.com</url>
+<note>在独立页面显示所有文章链接</note>
+<description></description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>Nobird</name>
+  <email>admin@birdol.com</email>
+  <url>http://www.birdol.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.4</version>
+<pubdate>2014-08-10</pubdate>
+<modified>2014-08-20</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

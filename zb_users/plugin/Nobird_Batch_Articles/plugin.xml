@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>Nobird_Batch_Articles</id>
+<name>批量文章管理</name>
+<url>http://www.birdol.com</url>
+<note>ZBLOG PHP版本的批量文章管理</note>
+<description>由Nobird制作的ZBLOG PHP版本的批量文章管理</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>Nobird</name>
+  <email>admin@birdol.com</email>
+  <url>http://www.birdol.com/</url>
+</author>
+<source>
+  <name>Nobird</name>
+  <email>admin@birdol.com</email>
+  <url>http://www.birdol.com/</url>
+</source>
+<adapted>140220</adapted>
+<version>1.8</version>
+<pubdate>2014-08-05</pubdate>
+<modified>2015-01-16</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

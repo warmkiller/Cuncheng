@@ -1,0 +1,54 @@
+.mfpcls .btn{
+position: relative !important; 
+overflow: hidden !important; 
+margin-right: 4px !important; 
+display:inline-block !important; 
+*display:inline !important; 
+    max-height: 30px !important; 
+    min-width: 120px !important; 
+    padding: 8px 10px 0 !important; 
+font-size:14px !important; 
+line-height:18px !important; 
+*line-height:20px !important; 
+color:#fff !important; 
+text-align:center !important; 
+vertical-align:middle !important; 
+cursor:pointer !important; 
+background-color:#5bb75b !important; 
+border:1px solid #cccccc !important; 
+border-color:#e6e6e6 #e6e6e6 #bfbfbf !important; 
+border-bottom-color:#b3b3b3 !important; 
+-webkit-border-radius:4px !important; 
+-moz-border-radius:4px !important; 
+border-radius:4px !important; 
+}
+.mfpcls .btn input {
+position: absolute !important; 
+top: 0 !important; 
+ right: 0 !important; 
+margin: 0 !important; 
+border: solid transparent !important; 
+opacity: 0 !important; 
+filter:alpha(opacity=0) !important; 
+ cursor: pointer !important; 
+}
+.mfpcls .progress { position:relative !important; 
+ margin-left:150px !important; 
+ margin-top:-40px !important; 
+ width:300px !important; 
+padding: 1px !important; 
+ border-radius:3px !important; 
+ display:none}
+.mfpcls .bar {background-color: green; 
+ display:block; 
+ width:0%; 
+ height:30px; 
+ border-radius: 3px; 
+ padding:8px 10px 0; 
+}
+.mfpcls .percent { position:absolute; 
+ height:20px; 
+ display:inline-block; 
+ top:3px; 
+ left:2%; 
+ color:#fff }

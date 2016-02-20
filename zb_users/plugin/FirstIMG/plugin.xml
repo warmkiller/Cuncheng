@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>FirstIMG</id>
+<name>FirstIMG</name>
+<url>http://www.fengwensheng.com/</url>
+<note>这个插件可以提取文章中第一张图片</note>
+<description>这个插件可以提取文章中第一张图片。调用代码{$xxx.Img}，例如：{$article.Img}等，根据实际{foreach $articles as $article} as后面是什么确定。。。</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>流年岁月</name>
+  <email>372664700@qq.com</email>
+  <url>http://www.fengwensheng.com/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.6</version>
+<pubdate>2014-06-08</pubdate>
+<modified>2015-02-05</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

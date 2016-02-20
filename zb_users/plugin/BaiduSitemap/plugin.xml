@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>BaiduSitemap</id>
+<name>百度网站地图</name>
+<url>http://www.cuncin.com/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/</url>
+<note>生成百度sitemap和html格式的地图页面</note>
+<description></description>
+<path>main.php</path>
+<include>http://www.cuncin.com/%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/</include>
+<level>1</level>
+<author>
+  <name>zhouhaoran</name>
+  <email>89929510@qq.com</email>
+  <url>http://www.cuncin.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.0</version>
+<pubdate>2014-11-02</pubdate>
+<modified>2015-11-24</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

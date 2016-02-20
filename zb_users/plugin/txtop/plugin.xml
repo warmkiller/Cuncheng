@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>txtop</id>
+<name>自定义色彩+自适应的返回顶部</name>
+<url>http://www.txcstx.cn/</url>
+<note>自定义色彩+自适应的部返回顶部+在线QQ+邮箱图标</note>
+<description>自定义色彩+自适应的返回顶部</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>村创空间</name>
+  <email>admin@txcstx.cn</email>
+  <url>http://www.txcstx.cn/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.5</version>
+<pubdate>2015-05-11</pubdate>
+<modified>2016-01-22</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

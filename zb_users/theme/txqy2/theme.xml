@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>txqy2</id>
+<name>村城</name>
+<url>http://www.cuncin.com</url>
+<note>村创空间</note>
+<description>村创空间</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>村城网络技术部</name>
+  <email></email>
+  <url></url>
+</author>
+<source>
+  <name>天兴工作室</name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>150101</adapted>
+<version>1.0</version>
+<pubdate>2015-09-02</pubdate>
+<modified>2015-09-02</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1>calendar|controlpanel|catalog|searchpanel|comments|archives|favorite|link|misc</sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
